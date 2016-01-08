@@ -1,0 +1,10 @@
+Determine if 2 URIs match.
+
+Exceptions:
+If the port is not provided, 80 is assumed.
+The host names and scheme names are case-insensitive
+The characters are equivalend to their URL Encoded values. Reselved characters that are not encoded are the below:
+/ ? : @ & = + $ #
+
+The input file path is provided as the first argument. 
+Each line is tested and the results are printed (e.g. True or False) 

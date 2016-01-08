@@ -1,0 +1,5 @@
+Check if a string containing the following characters is well-formed:
+(,),{,},[,]
+
+The input file path is provided as the first argument. 
+Each line is tested and the results are printed (e.g. True or False) 

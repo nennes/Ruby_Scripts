@@ -1,0 +1,5 @@
+There are two strings: A and B. 
+Print 1 if string B occurs at the end of string A. Otherwise, print 0.
+
+The input file path is provided as the first argument. 
+Each line is tested and the results are printed (e.g. 1 or 0) 

@@ -1,0 +1,7 @@
+Implement a stack inteface for integers.
+Supported functions: 'push' and 'pop'
+
+The code will ‘push’ a series of integers and then ‘pop’ and print every alternate integer.
+
+The input file path is provided as the first argument. 
+Each line is tested and the results are printed (e.g. alternate integers) 
